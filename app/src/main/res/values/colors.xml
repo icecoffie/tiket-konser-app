@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6A1B9A</color>
+    <color name="primary_variant">#4A148C</color>
+    <color name="secondary">#D81B60</color>
+    <color name="accent">#00B0FF</color>
+
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_background">#000000</color>
+    <color name="on_surface">#000000</color>
+
+    <!-- Status Colors -->
+    <color name="status_paid">#4CAF50</color>
+    <color name="status_pending">#FF9800</color>
+    <color name="status_used">#9E9E9E</color>
+
+    <!-- Group Colors -->
+    <color name="itzy">#FF0055</color>
+    <color name="aespa">#A020F0</color>
+    <color name="exo">#000000</color>
+    <color name="twice">#FFC0CB</color>
+    <color name="newjeans">#ADD8E6</color>
+    <color name="blackpink">#FF69B4</color>
+    <color name="straykids">#FFFF00</color>
+    <color name="seventeen">#B19CD9</color>
+</resources>

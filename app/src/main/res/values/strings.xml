@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KpopTix</string>
+    <string name="dashboard_title">KpopTix Dashboard</string>
+    <string name="total_tickets">Tiket</string>
+    <string name="total_spending">Pengeluaran (Paid)</string>
+    <string name="total_groups">Grup</string>
+    <string name="search_hint">Cari konser atau grup...</string>
+    <string name="empty_state">Belum ada tiket nih...</string>
+    <string name="add_ticket">Tambah Tiket</string>
+    <string name="edit_ticket">Edit Tiket</string>
+    <string name="new_ticket">Tambah Tiket Baru</string>
+    <string name="group_name">Nama Grup</string>
+    <string name="concert_title">Judul Konser</string>
+    <string name="venue">Venue</string>
+    <string name="date">Tanggal</string>
+    <string name="section">Seksi Kursi</string>
+    <string name="price">Harga (Rp)</string>
+    <string name="quantity">Jumlah</string>
+    <string name="status">Status</string>
+    <string name="save">Simpan Tiket</string>
+    <string name="delete_confirm_title">Hapus Tiket</string>
+    <string name="delete_confirm_msg">Apakah Anda yakin ingin menghapus tiket ini?</string>
+    <string name="deleted">Tiket dihapus</string>
+    <string name="undo">Undo</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="fill_all">Harap isi semua data</string>
+</resources>
